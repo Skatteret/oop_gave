@@ -1,0 +1,8 @@
+[
+    {"name": "John", "agent_type": "tiedagent", "cost": 2000},
+    {"name": "Mike", "agent_type": "customeragent", "cost": 10},
+    {"name": "Anders", "agent_type": "tiedagent", "cost": 2000},
+    {"name": "Emil", "agent_type": "customeragent", "cost": 10},
+    {"name": "Niels", "agent_type": "tiedagent", "cost": 2000},
+    {"name": "Stefan", "agent_type": "customeragent", "cost": 10}
+]
